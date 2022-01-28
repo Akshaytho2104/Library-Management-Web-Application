@@ -45,7 +45,18 @@ The library management system must allow a librarian to track books and their qu
          import urllib
          import requests
          
- ## The pictures of the page are attached in images::
+ ## The pictures of MySQL DATABASE
+ 
+ ![Screenshot (42)](https://user-images.githubusercontent.com/58549996/151511797-e51238e4-a865-4ea4-a7c2-6e1635e59fde.png)
  
  
+ ## Web Applications Pitures:
+ 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/58549996/151510097-37c238ca-5361-4fe8-afa7-4bc690067c83.png)
+![image](https://user-images.githubusercontent.com/58549996/151510155-acaa064b-988e-4601-bbc5-b90edb620253.png)
+![image](https://user-images.githubusercontent.com/58549996/151510207-295c3425-97b5-4622-9954-20b6ea48270a.png)
+
+
          
