@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+{% block body %}
+<div class="px-4 py-5 my-5 text-center">
+    <h1 class="display-5 fw-bold">Library Management System</h1>
+    <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4"> <a
+                href="https://frappe.io/api/method/frappe-library?page=2&title=and" style="text-decoration: none; color: unset;">I have Always Imagined that Paradise will be a kind of LIBRARY.</a>
+        </p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+            <a href="/reports" class="btn btn-primary btn-lg px-3">REPORTS</a>
+            <a href="/books" class="btn btn-outline-secondary btn-lg px-3">BOOKS</a>
+            <a href="/members" class="btn btn-outline-secondary btn-lg px-3">MEMBERS</a>
+            <a href="/transactions" class="btn btn-outline-secondary btn-lg px-3">TRANSACTIONS</a>
+
+        </div>
+    </div>
+</div>
+{% endblock %}
